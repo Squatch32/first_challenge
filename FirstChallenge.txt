@@ -1,7 +1,0 @@
-This is the first challenge.
-
-This is a new line.
-
-Add another change.
-
-Add anther line.
